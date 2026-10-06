@@ -2,7 +2,7 @@ export default function Header() {
     return (
         <header>
             <h1>Users</h1>
-            <p>My first component YAY</p>
+            <p>A list of useres</p>
         </header>
     );
 }
